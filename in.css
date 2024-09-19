@@ -1,4 +1,230 @@
 *{
     padding: 0;
     margin: 0px;
+    
 }
+.kj{
+}
+.navbar{
+    background-color: #023b6d;
+    display: flex;
+    padding: 3px;
+    position: relative;
+
+}
+
+.qe{
+    width: 25%;
+    background-color: #023b6d;
+    margin-left: 10px;
+}
+.ijo{
+    margin-left: -440px;
+    margin-top: 5px;
+    color: white;
+}
+.ijy{
+    margin-left: -409px;
+    margin-top: 3px;
+    font-size: 16px;
+    color: #023b6d;
+    border-style: solid;
+    border-color: #456c8f;
+    border-width: 2px;
+   
+    
+}
+.ijh{
+    margin-left: -380px;
+    margin-top: 3px;
+    font-size: 20px;
+    color: #456c8f;
+    /* border-style: solid;
+    border-color: #456c8f; */
+    border-width: 2px;
+    
+
+}
+.ld{
+    margin-left: 140px;
+    margin-top: 5px;
+    color: #6191bb;
+}
+.im{
+    color: white;
+    font-weight: 900;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   padding-left: 20px;
+    margin-left: -2px;
+
+}
+.gt{
+    margin-left: 13px;
+    margin-top: 5px;
+    color: #6191bb;
+}
+.aur{
+    margin-left: 470px;
+    margin-top: 5px;
+    color: #6191bb;
+}
+.afd{
+    margin-left: 5px;
+    margin-top: 5px;
+    background-color: #00a6eb;
+    padding: 9px 20px 5px 20px;
+    ;
+    right: 0;
+    bottom: 0;
+    color: white;
+    font-weight: 900;
+    font-size: 16px;
+} 
+.uj{
+    display: flex;
+    background-color: #008374;
+    position: relative;
+}
+.iiu{
+    margin-left: 130px;
+    padding: 10px;
+    color: white;
+}
+.pl{
+    color: white;
+    text-decoration: none;
+    ;
+    left: 160px;
+    top: 7px;
+}
+.jh{
+    color: #008374;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    margin-left: 180px;
+    margin-top: 8px;
+}
+.nu{
+    text-decoration: none;
+    color: white;
+    margin: 8px 0px 0px 5px;
+    
+}
+.tw{
+    margin-left: 850px;
+    margin-top: 8px;
+    color: black;
+}
+.ab{
+    margin-left: 20px;
+    margin-top: 8px;
+    color: black;
+}
+    .navd{
+        display: flex;
+        background-color: #008374;
+       
+    }
+    .navv{
+        font-weight: 900;
+        font-size: 25px;
+        color: white;
+        margin-left: 135px;
+        margin-top: 19px;
+        
+    }
+    .huv{
+        color: white;
+        text-decoration: none;
+        font-weight: 900;
+        margin-right: 50px;
+        font-size: 15px;
+        margin-left: 500px;
+        
+    }
+    /* .huw{
+        color: white;
+        text-decoration: none;
+        font-weight: 900;
+        margin-right: 50px;
+        font-size: 15px;
+        
+        
+    } */
+    .hg{
+        margin-top: 30px;
+        display: flex;
+    }
+    .ha{
+        font-size: 55px;
+        margin-left: 140px;
+        padding-top: 100px;
+        color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .bv{
+        background-color: #008374;
+        position: relative;
+    }
+    .gf{
+        color: #a6fcf2da;
+        margin-left: 140px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 15px;
+    }
+    .op{
+        display: flex;
+    }
+    .op .divA{
+        width: 50%;
+    }
+    .op .divB{
+        width: 50%;
+    }
+    .po{
+        /* margin-left: 180px;
+        margin-top: 50px; */
+        width: 80%;
+    }
+    .jnm{
+        color: white;
+
+    }
+    .jnv{
+        background-color: #07554c04;
+        border-radius: 50px;
+        padding: 20px 50px 20px 50px;
+        border-color: #06b4a0;
+        /* margin-bottom: 3px; */
+        ;
+        top: 270px;
+        left: 150px;
+    }
+    .li{
+        display: flex;
+        margin-top: 27px;
+    margin-left: 12%;
+    }
+    .bbv{
+        color: #00bea8;
+        font-size: 40px;
+        ;
+        top: 280px;
+        left: 380px;
+        
+    }
+    .huy{
+        color: white;
+        ;
+        top: 290px;
+        left: 430px;
+        font-weight: 900;
+        font-size: 15px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    nav{
+        display: flex;
+        justify-content: space-between;
+    }
